@@ -1,0 +1,78 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+#Welcome-top{
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+    display: flex;
+    
+    
+}
+section{
+   padding-bottom: 150px;
+}
+.welcome-top-left{
+    width: 45%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.welcome-top-right{
+    width: 45%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.welcome-top-right img{
+    width: 80%;
+}
+.welcome-top-left h1{
+    font-size: 50px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+.welcome-top-left h2{
+    font-size: 45px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.welcome-top-left span{
+    display: inline-block;
+    color: orange;
+    font-weight: 400;
+}
+.welcome-top-left h4{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.welcome-top-left p{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    letter-spacing: 0.25px;
+}
+.welcome-btn{
+    padding: 10px 40px;
+    background:linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 30px;
+    display: inline-block;      
+}
+#Welcome-top-two{
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+}
+#Welcome-top-two {
+    padding-right: 12%;
+}
+#Experiences{
+background-image: url(../images/exp-bg.png);
+background-repeat: no-repeat;
+}
+#Experiences .Experiences-inner{
+ display: flex;
+}
